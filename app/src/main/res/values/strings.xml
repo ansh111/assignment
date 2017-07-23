@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_location_permission">Location</string>
+    <string name="text_location_permission">Please enable your location</string>
+    <string name="ok">OK</string>
+    <string name="origin">Enter starting point</string>
+    <string name="destination">Enter Destination Point</string>
+    <string name="steps_list">Steps List</string>
+</resources>
